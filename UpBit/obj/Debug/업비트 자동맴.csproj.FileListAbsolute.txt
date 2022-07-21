@@ -1,0 +1,156 @@
+C:\Users\이현호\Desktop\c#\업비트 자동맴\bin\Debug\업비트 자동맴.exe.config
+C:\Users\이현호\Desktop\c#\업비트 자동맴\bin\Debug\업비트 자동맴.exe
+C:\Users\이현호\Desktop\c#\업비트 자동맴\bin\Debug\업비트 자동맴.pdb
+C:\Users\이현호\Desktop\c#\업비트 자동맴\bin\Debug\JWT.dll
+C:\Users\이현호\Desktop\c#\업비트 자동맴\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\이현호\Desktop\c#\업비트 자동맴\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\이현호\Desktop\c#\업비트 자동맴\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\이현호\Desktop\c#\업비트 자동맴\bin\Debug\Newtonsoft.Json.dll
+C:\Users\이현호\Desktop\c#\업비트 자동맴\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\이현호\Desktop\c#\업비트 자동맴\bin\Debug\websocket-sharp.dll
+C:\Users\이현호\Desktop\c#\업비트 자동맴\bin\Debug\JWT.pdb
+C:\Users\이현호\Desktop\c#\업비트 자동맴\bin\Debug\JWT.xml
+C:\Users\이현호\Desktop\c#\업비트 자동맴\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\이현호\Desktop\c#\업비트 자동맴\bin\Debug\Microsoft.IdentityModel.Logging.xml
+C:\Users\이현호\Desktop\c#\업비트 자동맴\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\이현호\Desktop\c#\업비트 자동맴\bin\Debug\Newtonsoft.Json.xml
+C:\Users\이현호\Desktop\c#\업비트 자동맴\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\이현호\Desktop\c#\업비트 자동맴\bin\Debug\websocket-sharp.xml
+C:\Users\이현호\Desktop\c#\업비트 자동맴\obj\Debug\업비트 자동맴.csprojAssemblyReference.cache
+C:\Users\이현호\Desktop\c#\업비트 자동맴\obj\Debug\업비트_자동맴.Form1.resources
+C:\Users\이현호\Desktop\c#\업비트 자동맴\obj\Debug\업비트_자동맴.Properties.Resources.resources
+C:\Users\이현호\Desktop\c#\업비트 자동맴\obj\Debug\업비트 자동맴.csproj.GenerateResource.cache
+C:\Users\이현호\Desktop\c#\업비트 자동맴\obj\Debug\업비트 자동맴.csproj.CoreCompileInputs.cache
+C:\Users\이현호\Desktop\c#\업비트 자동맴\obj\Debug\업비트 자동맴.csproj.CopyComplete
+C:\Users\이현호\Desktop\c#\업비트 자동맴\obj\Debug\업비트 자동맴.exe
+C:\Users\이현호\Desktop\c#\업비트 자동맴\obj\Debug\업비트 자동맴.pdb
+C:\Users\이현호\Desktop\업비트 자동맴\bin\Debug\업비트 자동맴.exe.config
+C:\Users\이현호\Desktop\업비트 자동맴\bin\Debug\업비트 자동맴.exe
+C:\Users\이현호\Desktop\업비트 자동맴\bin\Debug\업비트 자동맴.pdb
+C:\Users\이현호\Desktop\업비트 자동맴\bin\Debug\JWT.dll
+C:\Users\이현호\Desktop\업비트 자동맴\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\이현호\Desktop\업비트 자동맴\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\이현호\Desktop\업비트 자동맴\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\이현호\Desktop\업비트 자동맴\bin\Debug\Newtonsoft.Json.dll
+C:\Users\이현호\Desktop\업비트 자동맴\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\이현호\Desktop\업비트 자동맴\bin\Debug\websocket-sharp.dll
+C:\Users\이현호\Desktop\업비트 자동맴\bin\Debug\JWT.pdb
+C:\Users\이현호\Desktop\업비트 자동맴\bin\Debug\JWT.xml
+C:\Users\이현호\Desktop\업비트 자동맴\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\이현호\Desktop\업비트 자동맴\bin\Debug\Microsoft.IdentityModel.Logging.xml
+C:\Users\이현호\Desktop\업비트 자동맴\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\이현호\Desktop\업비트 자동맴\bin\Debug\Newtonsoft.Json.xml
+C:\Users\이현호\Desktop\업비트 자동맴\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\이현호\Desktop\업비트 자동맴\bin\Debug\websocket-sharp.xml
+C:\Users\이현호\Desktop\업비트 자동맴\obj\Debug\업비트 자동맴.csprojAssemblyReference.cache
+C:\Users\이현호\Desktop\업비트 자동맴\obj\Debug\업비트_자동맴.Form1.resources
+C:\Users\이현호\Desktop\업비트 자동맴\obj\Debug\업비트_자동맴.Properties.Resources.resources
+C:\Users\이현호\Desktop\업비트 자동맴\obj\Debug\업비트 자동맴.csproj.GenerateResource.cache
+C:\Users\이현호\Desktop\업비트 자동맴\obj\Debug\업비트 자동맴.csproj.CoreCompileInputs.cache
+C:\Users\이현호\Desktop\업비트 자동맴\obj\Debug\업비트 자동맴.csproj.CopyComplete
+C:\Users\이현호\Desktop\업비트 자동맴\obj\Debug\업비트 자동맴.exe
+C:\Users\이현호\Desktop\업비트 자동맴\obj\Debug\업비트 자동맴.pdb
+C:\Users\온라이프04\Desktop\지울파일\업비트 자동맴_0719\bin\Debug\업비트 자동맴.exe.config
+C:\Users\온라이프04\Desktop\지울파일\업비트 자동맴_0719\bin\Debug\업비트 자동맴.exe
+C:\Users\온라이프04\Desktop\지울파일\업비트 자동맴_0719\bin\Debug\업비트 자동맴.pdb
+C:\Users\온라이프04\Desktop\지울파일\업비트 자동맴_0719\bin\Debug\JWT.dll
+C:\Users\온라이프04\Desktop\지울파일\업비트 자동맴_0719\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\온라이프04\Desktop\지울파일\업비트 자동맴_0719\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\온라이프04\Desktop\지울파일\업비트 자동맴_0719\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\온라이프04\Desktop\지울파일\업비트 자동맴_0719\bin\Debug\Newtonsoft.Json.dll
+C:\Users\온라이프04\Desktop\지울파일\업비트 자동맴_0719\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\온라이프04\Desktop\지울파일\업비트 자동맴_0719\bin\Debug\websocket-sharp.dll
+C:\Users\온라이프04\Desktop\지울파일\업비트 자동맴_0719\bin\Debug\JWT.pdb
+C:\Users\온라이프04\Desktop\지울파일\업비트 자동맴_0719\bin\Debug\JWT.xml
+C:\Users\온라이프04\Desktop\지울파일\업비트 자동맴_0719\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\온라이프04\Desktop\지울파일\업비트 자동맴_0719\bin\Debug\Microsoft.IdentityModel.Logging.xml
+C:\Users\온라이프04\Desktop\지울파일\업비트 자동맴_0719\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\온라이프04\Desktop\지울파일\업비트 자동맴_0719\bin\Debug\Newtonsoft.Json.xml
+C:\Users\온라이프04\Desktop\지울파일\업비트 자동맴_0719\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\온라이프04\Desktop\지울파일\업비트 자동맴_0719\bin\Debug\websocket-sharp.xml
+C:\Users\온라이프04\Desktop\지울파일\업비트 자동맴_0719\obj\Debug\업비트 자동맴.csproj.AssemblyReference.cache
+C:\Users\온라이프04\Desktop\지울파일\업비트 자동맴_0719\obj\Debug\업비트_자동맴.Form1.resources
+C:\Users\온라이프04\Desktop\지울파일\업비트 자동맴_0719\obj\Debug\업비트_자동맴.Properties.Resources.resources
+C:\Users\온라이프04\Desktop\지울파일\업비트 자동맴_0719\obj\Debug\업비트 자동맴.csproj.GenerateResource.cache
+C:\Users\온라이프04\Desktop\지울파일\업비트 자동맴_0719\obj\Debug\업비트 자동맴.csproj.CoreCompileInputs.cache
+C:\Users\온라이프04\Desktop\지울파일\업비트 자동맴_0719\obj\Debug\업비트 자동맴.csproj.CopyComplete
+C:\Users\온라이프04\Desktop\지울파일\업비트 자동맴_0719\obj\Debug\업비트 자동맴.exe
+C:\Users\온라이프04\Desktop\지울파일\업비트 자동맴_0719\obj\Debug\업비트 자동맴.pdb
+C:\Users\이현호\Desktop\업비트\업비트 자동맴_0720\bin\Debug\업비트 자동맴.exe.config
+C:\Users\이현호\Desktop\업비트\업비트 자동맴_0720\bin\Debug\업비트 자동맴.exe
+C:\Users\이현호\Desktop\업비트\업비트 자동맴_0720\bin\Debug\업비트 자동맴.pdb
+C:\Users\이현호\Desktop\업비트\업비트 자동맴_0720\bin\Debug\JWT.dll
+C:\Users\이현호\Desktop\업비트\업비트 자동맴_0720\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\이현호\Desktop\업비트\업비트 자동맴_0720\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\이현호\Desktop\업비트\업비트 자동맴_0720\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\이현호\Desktop\업비트\업비트 자동맴_0720\bin\Debug\Newtonsoft.Json.dll
+C:\Users\이현호\Desktop\업비트\업비트 자동맴_0720\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\이현호\Desktop\업비트\업비트 자동맴_0720\bin\Debug\websocket-sharp.dll
+C:\Users\이현호\Desktop\업비트\업비트 자동맴_0720\bin\Debug\JWT.pdb
+C:\Users\이현호\Desktop\업비트\업비트 자동맴_0720\bin\Debug\JWT.xml
+C:\Users\이현호\Desktop\업비트\업비트 자동맴_0720\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\이현호\Desktop\업비트\업비트 자동맴_0720\bin\Debug\Microsoft.IdentityModel.Logging.xml
+C:\Users\이현호\Desktop\업비트\업비트 자동맴_0720\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\이현호\Desktop\업비트\업비트 자동맴_0720\bin\Debug\Newtonsoft.Json.xml
+C:\Users\이현호\Desktop\업비트\업비트 자동맴_0720\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\이현호\Desktop\업비트\업비트 자동맴_0720\bin\Debug\websocket-sharp.xml
+C:\Users\이현호\Desktop\업비트\업비트 자동맴_0720\obj\Debug\업비트 자동맴.csprojAssemblyReference.cache
+C:\Users\이현호\Desktop\업비트\업비트 자동맴_0720\obj\Debug\업비트_자동맴.Form1.resources
+C:\Users\이현호\Desktop\업비트\업비트 자동맴_0720\obj\Debug\업비트_자동맴.Properties.Resources.resources
+C:\Users\이현호\Desktop\업비트\업비트 자동맴_0720\obj\Debug\업비트 자동맴.csproj.GenerateResource.cache
+C:\Users\이현호\Desktop\업비트\업비트 자동맴_0720\obj\Debug\업비트 자동맴.csproj.CoreCompileInputs.cache
+C:\Users\이현호\Desktop\업비트\업비트 자동맴_0720\obj\Debug\업비트 자동맴.csproj.CopyComplete
+C:\Users\이현호\Desktop\업비트\업비트 자동맴_0720\obj\Debug\업비트 자동맴.exe
+C:\Users\이현호\Desktop\업비트\업비트 자동맴_0720\obj\Debug\업비트 자동맴.pdb
+D:\프로그램자료\업비트\업비트 자동맴_0720\bin\Debug\업비트 자동맴.exe.config
+D:\프로그램자료\업비트\업비트 자동맴_0720\bin\Debug\업비트 자동맴.exe
+D:\프로그램자료\업비트\업비트 자동맴_0720\bin\Debug\업비트 자동맴.pdb
+D:\프로그램자료\업비트\업비트 자동맴_0720\bin\Debug\JWT.dll
+D:\프로그램자료\업비트\업비트 자동맴_0720\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\프로그램자료\업비트\업비트 자동맴_0720\bin\Debug\Microsoft.IdentityModel.Logging.dll
+D:\프로그램자료\업비트\업비트 자동맴_0720\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+D:\프로그램자료\업비트\업비트 자동맴_0720\bin\Debug\Newtonsoft.Json.dll
+D:\프로그램자료\업비트\업비트 자동맴_0720\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+D:\프로그램자료\업비트\업비트 자동맴_0720\bin\Debug\websocket-sharp.dll
+D:\프로그램자료\업비트\업비트 자동맴_0720\bin\Debug\JWT.pdb
+D:\프로그램자료\업비트\업비트 자동맴_0720\bin\Debug\JWT.xml
+D:\프로그램자료\업비트\업비트 자동맴_0720\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+D:\프로그램자료\업비트\업비트 자동맴_0720\bin\Debug\Microsoft.IdentityModel.Logging.xml
+D:\프로그램자료\업비트\업비트 자동맴_0720\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+D:\프로그램자료\업비트\업비트 자동맴_0720\bin\Debug\Newtonsoft.Json.xml
+D:\프로그램자료\업비트\업비트 자동맴_0720\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+D:\프로그램자료\업비트\업비트 자동맴_0720\bin\Debug\websocket-sharp.xml
+D:\프로그램자료\업비트\업비트 자동맴_0720\obj\Debug\업비트 자동맴.csproj.AssemblyReference.cache
+D:\프로그램자료\업비트\업비트 자동맴_0720\obj\Debug\업비트_자동맴.Form1.resources
+D:\프로그램자료\업비트\업비트 자동맴_0720\obj\Debug\업비트_자동맴.Properties.Resources.resources
+D:\프로그램자료\업비트\업비트 자동맴_0720\obj\Debug\업비트 자동맴.csproj.GenerateResource.cache
+D:\프로그램자료\업비트\업비트 자동맴_0720\obj\Debug\업비트 자동맴.csproj.CoreCompileInputs.cache
+D:\프로그램자료\업비트\업비트 자동맴_0720\obj\Debug\업비트 자동맴.csproj.CopyComplete
+D:\프로그램자료\업비트\업비트 자동맴_0720\obj\Debug\업비트 자동맴.exe
+D:\프로그램자료\업비트\업비트 자동맴_0720\obj\Debug\업비트 자동맴.pdb
+D:\프로그램자료\업비트\업비트\bin\Debug\업비트 자동맴.exe.config
+D:\프로그램자료\업비트\업비트\bin\Debug\업비트 자동맴.exe
+D:\프로그램자료\업비트\업비트\bin\Debug\업비트 자동맴.pdb
+D:\프로그램자료\업비트\업비트\bin\Debug\JWT.dll
+D:\프로그램자료\업비트\업비트\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\프로그램자료\업비트\업비트\bin\Debug\Microsoft.IdentityModel.Logging.dll
+D:\프로그램자료\업비트\업비트\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+D:\프로그램자료\업비트\업비트\bin\Debug\Newtonsoft.Json.dll
+D:\프로그램자료\업비트\업비트\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+D:\프로그램자료\업비트\업비트\bin\Debug\websocket-sharp.dll
+D:\프로그램자료\업비트\업비트\bin\Debug\JWT.pdb
+D:\프로그램자료\업비트\업비트\bin\Debug\JWT.xml
+D:\프로그램자료\업비트\업비트\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+D:\프로그램자료\업비트\업비트\bin\Debug\Microsoft.IdentityModel.Logging.xml
+D:\프로그램자료\업비트\업비트\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+D:\프로그램자료\업비트\업비트\bin\Debug\Newtonsoft.Json.xml
+D:\프로그램자료\업비트\업비트\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+D:\프로그램자료\업비트\업비트\bin\Debug\websocket-sharp.xml
+D:\프로그램자료\업비트\업비트\obj\Debug\업비트 자동맴.csproj.AssemblyReference.cache
+D:\프로그램자료\업비트\업비트\obj\Debug\업비트_자동맴.Form1.resources
+D:\프로그램자료\업비트\업비트\obj\Debug\업비트_자동맴.Properties.Resources.resources
+D:\프로그램자료\업비트\업비트\obj\Debug\업비트 자동맴.csproj.GenerateResource.cache
+D:\프로그램자료\업비트\업비트\obj\Debug\업비트 자동맴.csproj.CoreCompileInputs.cache
+D:\프로그램자료\업비트\업비트\obj\Debug\업비트 자동맴.csproj.CopyComplete
+D:\프로그램자료\업비트\업비트\obj\Debug\업비트 자동맴.exe
+D:\프로그램자료\업비트\업비트\obj\Debug\업비트 자동맴.pdb
